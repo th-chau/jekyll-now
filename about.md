@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About:
+title: About
 permalink: /about/
 ---
+## About:
+
 ### This Blog
 Thoughts of an undergraduate scrambling through his degree; posts range from everyday life to the more academic.
 

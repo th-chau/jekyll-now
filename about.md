@@ -7,10 +7,10 @@ permalink: /about/
 ### This Blog
 Thoughts of an undergraduate scrambling through his degree; posts range from everyday life to the more academic to the deeper reflection.
 
-The name of the blog comes from *Port Meadow, Oxford*, my favourite spot for reflection and the (occasional) self-talk.
+The name of the blog comes from *Port Meadow* in Oxford, my favourite spot for reflection and the (occasional) self-talk.
 
 ### Me
-I am a second-year undergradate reading Philosophy, Politics and Economics at the University of Oxford, keen to learn more (about) political sociology, wealth stratification, money in politics and voting theory.
+I am a second-year undergradate reading Philosophy, Politics and Economics at the University of Oxford, keen to learn more about political sociology, wealth stratification, money in politics and voting theory.
 
 I enjoy reading, hiking, city-cycling and thinking.
 

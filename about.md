@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About
+title: About:
 permalink: /about/
 ---
-### About
+### This Blog
 Thoughts of an undergraduate scrambling through his degree; posts range from everyday life to the more academic.
 
 ### Me
 I am an undergradate reading Philosophy, Politics and Economics at Oxford and keen to learn more political sociology, wealth stratification, money in politics and voting theory.
+
 
 ### Contact me
 

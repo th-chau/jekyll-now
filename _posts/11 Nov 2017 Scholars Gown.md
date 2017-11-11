@@ -1,4 +1,8 @@
-#Oddities of Oxford: Scholars' Gown
+---
+layout: post
+title: Oddities of Oxford: Scholars' Gown
+---
+
 ##Establishing a visible hierarchy based on academic achievements is problematic, but its normalisation is disturbingly odd
 
 Imagine entering an examination hall where all examinees are constantly reminded that they are academically unequal, in which some are better than others. Imagine such differentiation produces results in which women, state-educated students and students with disabilities fare significantly worse. More importantly, imagine that actions that promote such a state of affairs are normalized, or even looked up upon.

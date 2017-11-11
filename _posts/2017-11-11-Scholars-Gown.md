@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oddities of Oxford: Scholars' Gown
+title: Oddities of Oxford - Scholars' Gown
 ---
 
 **_Establishing a visible hierarchy based on academic achievements is problematic, but its normalisation is disturbingly odd_**

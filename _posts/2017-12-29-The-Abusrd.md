@@ -8,7 +8,7 @@ published: true
 
 ![Sisyphus](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Sisyphus_by_von_Stuck.jpg/519px-Sisyphus_by_von_Stuck.jpg)
 
-A friend of mine who is embroiled in college applications recently gave me a long spiel on why he thinks life is absurd after thinking that he underperformed at an interview. However, at the same time, he proclaimed that one should continue living only if the present is enjoyable, at least without strong suffering. While I think it is preposterous to claim that a failed interview makes life sufferable, his question is interesting.
+A friend of mine who is embroiled in college applications recently gave me a long spiel on why he thinks life is absurd after thinking that he underperformed at an interview. However, at the same time, he proclaimed that one should continue living only if the present is enjoyable, at least without strong suffering. While I think it is preposterous to claim that a failed interview makes life insufferable, his question is interesting.
 
 Perhaps a utilitarian may agree with him, but suicide does not follow from absurdity.
 

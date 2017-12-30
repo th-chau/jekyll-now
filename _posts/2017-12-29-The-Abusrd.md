@@ -14,7 +14,7 @@ Perhaps a utilitarian may agree with him, but suicide does not follow from absur
 
 Speaking as a person who does not believe that life in itself is meaningful or sanctimonious, I think he is wrong. Even if life is absurd, that our search for intrinsic value driven by our primitive instincts have no choice but to face our inability to find objective meanings in the universe (if there are), this is not a good reason for us to take our own life.
 
-At face value, his assertion appears to be quite intuitive. Without resorting to religion or other man-made values, why should one live if the present is not enjoyable? 'It gets better' is a nice piece rhetorical device but carries little meaning given how the great vicissitude concerning the future. Life, at times, is just quite intolerable, and there really does not seem to be a good reason for us to keep on living.
+At face value, his assertion appears to be quite intuitive. Without resorting to religion or other man-made values, why should one live if the present is not enjoyable? 'It gets better' is a nice piece rhetorical device but carries little meaning given how great vicissitude is concerning the future. Life, at times, is just quite intolerable, and there really does not seem to be a good reason for us to keep on living.
 
 I think there is an equivocation of two separate claims - giving up life due to pain (or the lack of future relief), and giving up life due to absurdity. It is the latter that is to be discussed, which is unrelated to whether the future is foreseeable or important. More importantly though, absurdity is not painful, nor should one suffer because of the fact that life is absurd.
 

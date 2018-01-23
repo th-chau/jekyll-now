@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-Market socialism has always been a topic that fascinated me. Even if socialism is a good idea in itself, as Cohen argued in his camping trip, the failures of the command and control structure were more than apparant given the experience in 20c.
+Market socialism has always been a topic that fascinated me. Even if socialism is a good idea in itself like Cohen's camping trip, the twentieth century taught us important lessons in implementing command and control economies. 
 
 Below is the tutorial essay that I have written for the topic. Feedback and criticism will be much welcomed.
 

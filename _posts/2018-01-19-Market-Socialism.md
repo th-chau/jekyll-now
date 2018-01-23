@@ -11,6 +11,7 @@ Market socialism has always been a topic that fascinated me. Even if socialism i
 
 Below is the tutorial essay that I have written for the topic. Feedback and criticism will be much welcomed.
 
+
 ## Essay
 
 G. A. Cohen (2009), in _Why not socialism?_, proclaimed that the correct conclusion to socialism’s feasibility problem and the dominance of right-liberal economic policies is not to ‘give up’; he argued that market socialism may potentially be a means to put socialism into practice yet lamenting that ‘the market is intrinsically repugnant’ from a socialist viewpoint. Not only do I believe that market socialism is feasible and coherent, I also reject the notion that markets are incompatible with socialism. Contrary to Cohen’s argument, my argument is one of positive affirmation of the market’s power in feasibly delivering socialist end-states, instead of a compromising one that accepts a socially inferior outcome out of practicality.

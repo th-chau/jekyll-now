@@ -3,15 +3,15 @@ layout: post
 title: Oddities of Oxford - Scholars' Gown
 summary: Establishing a visible hierarchy based on academic achievements is problematic, but its normalisation is disturbingly odd
 categories: blog odditiesofoxford MT17
+excerpt_separator: <!--more-->
 published: true
 ---
-<p>
-  
+
 **_Establishing a visible hierarchy based on academic achievements is problematic, but its normalisation is disturbingly odd_**
 
-
 Imagine entering an examination hall where all examinees are constantly reminded that they are academically unequal, in which some are better than others. Imagine such differentiation produces results in which women, state-educated students and students with disabilities fare significantly worse. More importantly, imagine that actions that promote such a state of affairs are normalized, or even looked up upon.
-</p>
+
+<!--more-->
 This is Oxford in 2017, where students are constantly reminded of their past academic achievements in examinations through differentiated gowns, where entitlement is rarely recognized, let alone questioned. In a recent student referendum, 63% of students upheld the status quo in which certain students, primarily who attained good examination results previously, are entitled to wear a scholars’ gown in examinations.
 
 The status quo gives a *choice* for scholars to wear the scholar's’ gown in examinations, and this entails responsibility that is seldom recognized. It is simply not good enough just to say: `I am entitled to X; hence, I am justified to do X`; the consequences of the action itself ought to be scrutinized. In this case, it is to objectively convey a signal of academic superiority over one’s peers in the examination hall. Perhaps this is too crude of a generalization, but the prime value of the scholars’ gown does stem from the fact that it is only conferred to a subset of students, and there is no possible justification other than the purely aesthetic.

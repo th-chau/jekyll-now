@@ -11,7 +11,7 @@ Market socialism has always been a topic that fascinated me. Even if socialism i
 
 Below is the tutorial essay that I have written for the topic. Feedback and criticism will be much welcomed.
 
-# Essay
+## Essay
 
 G. A. Cohen (2009), in _Why not socialism?_, proclaimed that the correct conclusion to socialism’s feasibility problem and the dominance of right-liberal economic policies is not to ‘give up’; he argued that market socialism may potentially be a means to put socialism into practice yet lamenting that ‘the market is intrinsically repugnant’ from a socialist viewpoint. Not only do I believe that market socialism is feasible and coherent, I also reject the notion that markets are incompatible with socialism. Contrary to Cohen’s argument, my argument is one of positive affirmation of the market’s power in feasibly delivering socialist end-states, instead of a compromising one that accepts a socially inferior outcome out of practicality.
 
@@ -37,7 +37,7 @@ Markets are also thought to be incompatible with socialist values of community a
 
 In this essay, I have argued that market socialism is a coherent concept, and most importantly, is a legitimate form of socialism, not a ‘middle ground’ compromise between an inefficient yet socialist planned economy and an efficient yet repulsive market economy. Particularly, I have clearly defined what market socialism is, and how it is not by definition contradictory with end-state theories of socialism. Moreover, I defended market socialism’s coherence by arguing that goal-directed theories of socialism are compatible with market as procedural institutions, as the latter relies on an intentional decision to maintain; I also defended the desirability of markets, as undesirable attributes of markets stem from systems of ownership instead of markets themselves. The market, in its most basic form, simply enables trade to occur between individuals. While markets are powerful, sometimes for the better and sometimes for the worse, the socialist answer to markets should be one of further investigation, not one of blanket, uncritical rejection.
 
-# References
+## References
 
 _Cohen, G. A., Why Not Socialism? (2009)._
 

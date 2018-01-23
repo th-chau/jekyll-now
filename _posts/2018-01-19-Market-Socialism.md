@@ -4,6 +4,7 @@ title: Market Socialism
 Summary: Re-post of essay on market socialism
 date:   2018-01-19 22:16:01 +0000
 categories: blog HT18
+excerpt_separator: <!--more-->
 published: true
 ---
 
@@ -11,6 +12,7 @@ Market socialism has always been a topic that fascinated me. Even if socialism i
 
 Below is the tutorial essay that I have written for the topic. Feedback and criticism will be much welcomed.
 
+<!--more-->
 
 ## Essay
 

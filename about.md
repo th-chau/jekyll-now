@@ -10,7 +10,7 @@ Thoughts of an undergraduate scrambling through his degree; posts range from eve
 The name of the blog comes from *Port Meadow* in Oxford, my favourite spot for reflection and the (occasional) self-talk.
 
 ### Me
-I am a second-year undergradate reading Philosophy, Politics and Economics at the University of Oxford; I am currently looking into the intersection between class and sexuality in social movements, and also the effect of money in politics.
+I am a second-year undergradate reading Philosophy, Politics and Economics at the University of Oxford; I am currently looking into the intersection between class and sexuality in social movements, for example working class women and men in the gay liberation movement, and also the effect of money in politics.
 
 I enjoy reading, hiking (in the walking sense), city-cycling and thinking. I will never say no to herbal tea, sparkling alcohol and a nice chat.
 

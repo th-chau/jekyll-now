@@ -3,6 +3,7 @@ layout: post
 title: Alternative Realities
 Summary: this is a short rant
 categories: blog HT18
+date:   2018-01-23 23:59:01 +0000
 excerpt_separator: <!--more-->
 published: true
 ---

@@ -5,18 +5,16 @@ permalink: /about/
 ---
 
 ### This Blog
-Thoughts of an undergraduate scrambling through his degree; posts range from everyday life to the more academic to the deeper reflection.
+Thoughts of an undergraduate scrambling through his degree.
 
-The name of the blog comes from *Port Meadow* in Oxford, my favourite spot for reflection and the (occasional) self-talk.
+The name of the blog comes from *Port Meadow* in Oxford, my favourite spot for reflection.
 
 ### Me
 I am a second-year undergradate reading Philosophy, Politics and Economics at the University of Oxford; narrowing down my interests is an urgent yet difficult task, these topics have so far caught my attention: gay politics, robustness of liberal oligarchies, authoritarian censorship, money in politics, among others.
 
 Keeping my vegetarianism is at times difficult, but Peter Singer's [Animal Liberation](https://www.peta.org/about-peta/learn-about-peta/ingrid-newkirk/animal-liberation/) made a case that I cannot ignore.
 
-I enjoy reading, hiking (in the walking sense), city-cycling and thinking. I will never say no to herbal tea, sparkling alcohol and a nice chat.
-
-
+I enjoy reading practical ethics, (and watching) cyberpunk Sci-Fi, hiking (in the walking sense), city-cycling and jogging. I will never say no to herbal tea and sparkling alcohol. I am trying to get better at the game of Go.
 
 廣東話係我母語。
 

@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 published: true
 ---
 
-Browsing through my old emails are always an intersting yet time-consuming pastime.
+Browsing through my old emails is always an intersting yet time-consuming pastime.
 <!--more-->
 
 Here is one:
